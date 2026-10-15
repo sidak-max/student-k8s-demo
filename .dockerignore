@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.git/docker build -t student-k8s-demo:v1 .
+docker images
